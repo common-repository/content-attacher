@@ -1,0 +1,35 @@
+
+
+#content_attacher tr:nth-child(even) td{
+    background: #dddddd;
+}
+#content_attacher tr:nth-child(odd) td{
+    background: #FFF;
+}
+#content_attacher th{
+font-size:20 px;
+font-weight:bold;
+}
+#content_attacher .coat_red{
+  color: red;
+}
+#content_attacher .coat_green{
+  color:green;
+}
+.coat_pagination a{
+margin:5px;
+}
+.coat_btn, .backlink{
+  background: #3399FF;
+  border:solid 1px #3399FF;
+  margin: 5px 5px;
+  padding:5px;
+  border-radius:5px;
+  color:#FFFFFF;
+   text-decoration:none;
+}
+a.backlink:hover{
+  color: #FFFFFF;
+}
+
+
